@@ -1,6 +1,8 @@
 # RAG_Application_With_MistralAI-Weaviatedb
 
+Data Chucking:- **RecursiveCharacterTextSplitter**
 
+HuggingFace Model Repo:- **mistralai/Mistral-7B-Instruct-v0.2**
 
 
 
